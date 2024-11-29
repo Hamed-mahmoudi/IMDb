@@ -6,9 +6,7 @@ export default function About() {
       <h1 className="text-2xl font-medium text-amber-600">About</h1>
       <p>
         This website help you to find trend movies and top rated movies
-      </p>
-      <p>Enjoy and have fun! this is our main goal😊😊 </p>
-      
+      </p>  
     </div>
   );
 }
