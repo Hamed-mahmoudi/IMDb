@@ -1,0 +1,27 @@
+{
+  "files.readonlyExclude": {
+    "": true
+  },
+  "cSpell.words": [
+    "tailwindcss"
+  ],
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext",
+    "json"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "editor.defaultColorDecorators": true,
+  "editor.defaultFoldingRangeProvider": "esbenp.prettier-vscode",
+  "cSpell.enabledFileTypes": {
+    "javascriptreact": true
+  },
+  "files.autoSaveWhenNoErrors": true,
+  "files.autoSaveWorkspaceFilesOnly": true
+}
